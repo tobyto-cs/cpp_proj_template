@@ -1,0 +1,5 @@
+/home/jeremy/Projects/cbase16/CMakeFiles/edit_cache.dir
+/home/jeremy/Projects/cbase16/CMakeFiles/rebuild_cache.dir
+/home/jeremy/Projects/cbase16/src/CMakeFiles/cbase16.dir
+/home/jeremy/Projects/cbase16/src/CMakeFiles/edit_cache.dir
+/home/jeremy/Projects/cbase16/src/CMakeFiles/rebuild_cache.dir
